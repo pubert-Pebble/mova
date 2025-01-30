@@ -1,1 +1,4 @@
-@import url('data:text/javascript,alert("Hi Mom!")');
+body::before {
+    content: "/* eval: alert('Hi Mom!') */";
+    display: none;
+}
