@@ -1,2 +1,2 @@
 # join the discord for the script
-https://discord.gg/2DzBnuvg
+https://discord.gg/RWc3wB3fDt
