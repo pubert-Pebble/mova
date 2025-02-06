@@ -4,7 +4,7 @@
 Welcome to Mova! Mova is an all-in-one mod for i-Ready. Mova includes a lesson skipper and a minute farmer.
 
 ## Installation
-**Tutorial Video**: *coming soon*  
+[**Tutorial Video**](https://vimeo.com/1054310690/a48db08148)
 1. [Enable Developer Mode on your browser](https://www.tampermonkey.net/faq.php?locale=en#Q209)
 2. Install [TamperMonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 3. Navigate to [the userscript](https://github.com/pubert-Pebble/mova/raw/refs/heads/main/mova.user.js)  
