@@ -2,7 +2,7 @@
 // @name         Mova Client
 // @namespace    https://discod.gg/RWc3wB3fDt
 // @icon         https://login.i-ready.com/favicon.ico
-// @version      v1
+// @version      v1.5
 // @description  An iReady Cheat
 // @author       Mova Team
 // @match        https://login.i-ready.com/*
