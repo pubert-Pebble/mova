@@ -2,11 +2,12 @@
 // @name         Mova Client
 // @namespace    https://discod.gg/RWc3wB3fDt
 // @icon         https://login.i-ready.com/favicon.ico
-// @version      v1.5
+// @version      v1.6
 // @description  An iReady Cheat
 // @author       Mova Team
 // @match        https://login.i-ready.com/*
 // @grant        GM_xmlhttpRequest
+// @grant        unsafeWindow
 // @run-at       document-start
 // @updateURL    https://github.com/pubert-Pebble/mova/raw/refs/heads/main/mova.user.js
 // @downloadURL  https://github.com/pubert-Pebble/mova/raw/refs/heads/main/mova.user.js
